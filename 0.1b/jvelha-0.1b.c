@@ -35,8 +35,8 @@
 int main(void) {
     menu();
     
-    // inicializa_matriz();
-    // imprime_matriz();
+    inicializa_matriz();
+    imprime_matriz();
     
     printf("\n");    
     return 0;
