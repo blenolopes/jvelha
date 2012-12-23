@@ -9,5 +9,4 @@ jvelha
 Sobre
 =====
 
-	O velho e bom jogo da velha (olha o trocadilho, rs!). Desenvolvido em C,
-sem mais!
+O velho e bom jogo da velha (olha o trocadilho, rs!). Desenvolvido em C, sem mais!
